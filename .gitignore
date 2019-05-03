@@ -1,2 +1,11 @@
-node_modules/
+### General
 *.log
+
+### Node
+node_modules/
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
